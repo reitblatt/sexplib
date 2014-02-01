@@ -1,0 +1,17 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Packaged-By: Mark Reitblatt <reitblatt@cs.cornell.edu>
+Packaged-Date: Sat, 01 Feb 2014 13:09:32 -0500
+Source: https://github.com/janestreet/sexplib
+
+Files: *
+Copyright: 2007-2014, Markus Mottl <markus.mottl@gmail.com>
+           2007-2014, Jane Street Holding, LLC <opensource@janestcapital.com>
+           2004-2005, Martin Sandin <msandin@hotmail.com>
+License: Apache-2
+
+Files: debian/*
+Copyright: 2014, Mark Reitblatt <reitblatt@cs.cornell.edu>
+License: BSD-3
+ The Debian packaging is copyright Mark Reitblatt, and licensed
+ under the Apache 2.0 license, see
+ `/usr/share/common-licenses/Apache-3' for the full text.

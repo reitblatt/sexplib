@@ -1,0 +1,2 @@
+version=3
+https://ocaml.janestreet.com/ocaml-core/latest/individual/ sexplib-(.*)\.tar\.gz
